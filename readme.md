@@ -1,0 +1,1 @@
+this repo is for my wip font family "fail". it will start with just latin simple character set in a single sans-serif weight. my goal is to expand it to a full family of serif and sans-serif faces in at least three weights each.
