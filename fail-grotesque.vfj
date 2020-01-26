@@ -1,0 +1,349 @@
+{
+  "version":8,
+  "font":{
+    "glyphsCount":5,
+    "upm":1000,
+    "glyphs":[
+      {
+        "name":"e",
+        "unicode":"0065",
+        "lastModified":"2020-01-26 14:59:31",
+        "openTypeGlyphClass":1,
+        "colorFlag":121,
+        "layers":[
+          {
+            "name":"mask",
+            "colorFlag":121,
+            "flags":13,
+            "advanceWidth":0,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "386 44",
+                        "386 44  214 1  206 -1 s",
+                        "194 -4  177 -7  165 -7 s",
+                        "69 -7  0 66  0 157 s",
+                        "0 563",
+                        "59 563",
+                        "66 485",
+                        "71 485",
+                        "100 533  150 570  238 570 s",
+                        "348 570  405 488  405 413 s",
+                        "405 367  392 326  372 295",
+                        "71 226",
+                        "71 157 s",
+                        "71 103  113 61  165 61 s",
+                        "173 61  180 62  188 64 s",
+                        "196 66  344 104  344 104"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "71 294",
+                        "321 352",
+                        "331 370  336 390  335 413 s",
+                        "334 453  305 504  221 504 s",
+                        "137 504  71 441  71 384 s"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#000096"
+          },
+          {
+            "name":"Regular",
+            "colorFlag":121,
+            "advanceWidth":0,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "386 44",
+                        "386 44  214 1  206 -1 s",
+                        "194 -4  177 -7  165 -7 s",
+                        "69 -7  0 66  0 157 s",
+                        "0 342 s",
+                        "0 450  51 570  217 570 s",
+                        "342 570  405 496  405 382 s",
+                        "405 303",
+                        "71 226",
+                        "71 157 s",
+                        "71 103  113 61  165 61 s",
+                        "173 61  180 62  188 64 s",
+                        "196 66  344 104  344 104"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "71 294",
+                        "335 355",
+                        "335 380 s",
+                        "335 443  310 504  214 504 s",
+                        "115 504  71 428  71 339 s"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#bac000",
+            "active":true
+          }
+        ]
+      },
+      {
+        "name":"f",
+        "unicode":"0066",
+        "lastModified":"2020-01-26 14:34:49",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":0
+          }
+        ]
+      },
+      {
+        "name":"NULL",
+        "unicode":"0000",
+        "lastModified":"2020-01-26 14:34:49",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":0
+          }
+        ]
+      },
+      {
+        "name":"a",
+        "unicode":"0061",
+        "lastModified":"2020-01-26 14:59:24",
+        "openTypeGlyphClass":1,
+        "colorFlag":241,
+        "layers":[
+          {
+            "name":"Regular",
+            "colorFlag":241,
+            "advanceWidth":0,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "12 519",
+                        "12 519  184 562  192 564 s",
+                        "204 567  221 570  233 570 s",
+                        "329 570  398 497  398 406 s",
+                        "398 0",
+                        "339 0",
+                        "332 78",
+                        "327 78",
+                        "298 30  248 -7  160 -7 s",
+                        "52 -7  -7 74  -7 150 s",
+                        "-7 200  9 238  30 268",
+                        "327 337",
+                        "327 406 s",
+                        "327 461  286 502  233 502 s",
+                        "225 502  218 501  210 499 s",
+                        "202 497  54 459  54 459"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "327 269",
+                        "77 211",
+                        "67 193  62 173  63 150 s",
+                        "64 110  90 59  177 59 s",
+                        "261 59  327 115  327 179 s"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"o",
+        "unicode":"006f",
+        "lastModified":"2020-01-26 14:59:34",
+        "openTypeGlyphClass":1,
+        "colorFlag":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "colorFlag":1,
+            "advanceWidth":0,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "202 570 s",
+                        "285 570  343 526  376 438 s",
+                        "390 400  398 354  398 300 s",
+                        "398 119  331 -7  196 -7",
+                        "61 -7  -7 125  -7 300",
+                        "-7 475  83 570 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "guidelines":[
+              {
+                "horizontal":true,
+                "position":570
+              },
+              {
+                "horizontal":true,
+                "position":-7
+              },
+              {
+                "vertical":true,
+                "position":-7
+              },
+              {
+                "vertical":true,
+                "position":398
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "defaultMaster":"Regular",
+    "interpolationFlags":0,
+    "hinting":{
+      "hdmx":[
+        9,
+        10,
+        11,
+        12,
+        13,
+        15,
+        16,
+        17,
+        19,
+        21,
+        24,
+        27,
+        29,
+        32,
+        33,
+        37,
+        42,
+        46,
+        50,
+        54,
+        58,
+        67,
+        75
+      ]
+    },
+    "info":{
+      "tfn":"fail grotesque",
+      "sgn":"fail grotesque",
+      "creationDate":"2010/01/01 06:00:01",
+      "copyright":"Copyright (c) 2010 by brannon rasmussen. All rights reserved.",
+      "designer":"brannon rasmussen",
+      "manufacturer":"brannon rasmussen",
+      "vendorID":"xRVN",
+      "versionMajor":0,
+      "versionMinor":1,
+      "version":"alpha.1",
+      "codepageRange":"c000000000000001",
+      "unicodeRange":"00000000000000000000000000000001",
+      "useTypoMetrics":false,
+      "embedding":"0100",
+      "year":2010
+    },
+    "meta":{
+      "metaCreator":true,
+      "metaFormatVersion":8,
+      "metaBuild":"7276"
+    },
+    "settings":{
+    },
+    "masters":[
+      {
+        "fontMaster":{
+          "name":"Regular",
+          "tsn":"Regular",
+          "sgn":"fail grotesque",
+          "ffn":"fail grotesque",
+          "psn":"failgrotesque",
+          "weight_name":"Regular",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "fontNote":"1000 is default unit height\r\n707 is sqRt(2) of 1000\r\n\r\n563 is golden ratio of 707 subtracted from 1000\r\n398 is sqRt(2) of 563\r\n\r\n1071 is 1000 plus 1/10th of 707\r\n354 is sqRt(2) of 500",
+          "ascender":1071,
+          "descender":-354,
+          "xHeight":563,
+          "capsHeight":1000,
+          "measurement":300,
+          "weight":400,
+          "width":5,
+          "lineGap":9,
+          "underlineThickness":50,
+          "underlinePosition":-75,
+          "otherData":{
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "hhea_ascender":750,
+            "hhea_descender":-250,
+            "hhea_line_gap":9,
+            "strikeout_position":250,
+            "strikeout_size":50,
+            "subscript_x_offset":0,
+            "subscript_x_size":700,
+            "subscript_y_offset":140,
+            "subscript_y_size":650,
+            "superscript_x_offset":0,
+            "superscript_x_size":700,
+            "superscript_y_offset":477,
+            "superscript_y_size":650
+          },
+          "hintingParameters":{
+          },
+          "kerning":{
+          },
+          "fontStemsH":[
+            {
+              "value":100,
+              "name":"std.Hstem"
+            }
+          ],
+          "fontStemsV":[
+            {
+              "value":50,
+              "name":"std.Vstem"
+            }
+          ],
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"1071",
+            "Descender":"-354",
+            "CapsHeight":"1000",
+            "XHeight":"563",
+            "UT":"50",
+            "UP":"-75"
+          }
+        }
+      }
+    ],
+    "searchStorage":""
+  }
+}
