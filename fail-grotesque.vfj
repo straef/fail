@@ -1,19 +1,16 @@
 {
   "version":8,
   "font":{
-    "glyphsCount":5,
+    "glyphsCount":4,
     "upm":1000,
     "glyphs":[
       {
         "name":"e",
         "unicode":"0065",
-        "lastModified":"2020-01-26 14:59:31",
         "openTypeGlyphClass":1,
-        "colorFlag":121,
         "layers":[
           {
             "name":"mask",
-            "colorFlag":121,
             "flags":13,
             "advanceWidth":0,
             "elements":[
@@ -56,8 +53,7 @@
             "color":"#000096"
           },
           {
-            "name":"Regular",
-            "colorFlag":121,
+            "name":"grotesque 5",
             "advanceWidth":0,
             "elements":[
               {
@@ -93,29 +89,16 @@
                 }
               }
             ],
-            "color":"#bac000",
-            "active":true
-          }
-        ]
-      },
-      {
-        "name":"f",
-        "unicode":"0066",
-        "lastModified":"2020-01-26 14:34:49",
-        "layers":[
-          {
-            "name":"Regular",
-            "advanceWidth":0
+            "color":"#bac000"
           }
         ]
       },
       {
         "name":"NULL",
         "unicode":"0000",
-        "lastModified":"2020-01-26 14:34:49",
         "layers":[
           {
-            "name":"Regular",
+            "name":"grotesque 5",
             "advanceWidth":0
           }
         ]
@@ -123,13 +106,12 @@
       {
         "name":"a",
         "unicode":"0061",
-        "lastModified":"2020-01-26 14:59:24",
         "openTypeGlyphClass":1,
-        "colorFlag":241,
+        "colorFlag":121,
         "layers":[
           {
-            "name":"Regular",
-            "colorFlag":241,
+            "name":"grotesque 5",
+            "colorFlag":121,
             "advanceWidth":0,
             "elements":[
               {
@@ -138,35 +120,40 @@
                     {
                       "nodes":[
                         "12 519",
-                        "12 519  184 562  192 564 s",
-                        "204 567  221 570  233 570 s",
+                        "192 564 s",
+                        "209 568  218 570  233 570 s",
                         "329 570  398 497  398 406 s",
                         "398 0",
-                        "339 0",
-                        "332 78",
+                        "342 0",
+                        "333 78",
                         "327 78",
-                        "298 30  248 -7  160 -7 s",
-                        "52 -7  -7 74  -7 150 s",
-                        "-7 200  9 238  30 268",
+                        "298 30  240 -7  160 -7 s",
+                        "50 -7  -7 65  -7 150 s",
+                        "-7 193  7 235  29 268",
                         "327 337",
                         "327 406 s",
-                        "327 461  286 502  233 502 s",
-                        "225 502  218 501  210 499 s",
-                        "202 497  54 459  54 459"
+                        "327 461  286 503  233 503 s",
+                        "225 503  218 502  210 500 s",
+                        "52 462"
                       ]
                     },
                     {
                       "nodes":[
-                        "327 269",
-                        "77 211",
-                        "67 193  62 173  63 150 s",
-                        "64 110  90 59  177 59 s",
-                        "261 59  327 115  327 179 s"
+                        "327 268",
+                        "76 210",
+                        "68 194  64 169  64 150 s",
+                        "64 97  97 60  175 60 s",
+                        "265 60  327 111  327 179 s"
                       ]
                     }
                   ]
-                },
-                "active":true
+                }
+              }
+            ],
+            "guidelines":[
+              {
+                "vertical":true,
+                "position":-103
               }
             ]
           }
@@ -175,13 +162,10 @@
       {
         "name":"o",
         "unicode":"006f",
-        "lastModified":"2020-01-26 14:59:34",
         "openTypeGlyphClass":1,
-        "colorFlag":1,
         "layers":[
           {
-            "name":"Regular",
-            "colorFlag":1,
+            "name":"grotesque 5",
             "advanceWidth":0,
             "elements":[
               {
@@ -223,7 +207,7 @@
         ]
       }
     ],
-    "defaultMaster":"Regular",
+    "defaultMaster":"grotesque 5",
     "interpolationFlags":0,
     "hinting":{
       "hdmx":[
@@ -253,8 +237,8 @@
       ]
     },
     "info":{
-      "tfn":"fail grotesque",
-      "sgn":"fail grotesque",
+      "tfn":"fail",
+      "sgn":"fail grotesque 5",
       "creationDate":"2010/01/01 06:00:01",
       "copyright":"Copyright (c) 2010 by brannon rasmussen. All rights reserved.",
       "designer":"brannon rasmussen",
@@ -279,31 +263,50 @@
     "masters":[
       {
         "fontMaster":{
-          "name":"Regular",
-          "tsn":"Regular",
-          "sgn":"fail grotesque",
-          "ffn":"fail grotesque",
-          "psn":"failgrotesque",
-          "weight_name":"Regular",
+          "name":"grotesque 5",
+          "tsn":"grotesque5",
+          "sgn":"fail grotesque 5",
+          "ffn":"fail grotesque 5",
+          "psn":"failgrotesque-5",
+          "weight_name":"Medium",
           "width_name":"Normal",
+          "other_name":"grotesque",
           "slope_name":"Plain",
-          "fontNote":"1000 is default unit height\r\n707 is sqRt(2) of 1000\r\n\r\n563 is golden ratio of 707 subtracted from 1000\r\n398 is sqRt(2) of 563\r\n\r\n1071 is 1000 plus 1/10th of 707\r\n354 is sqRt(2) of 500",
+          "fontNote":"1000 is default unit height\n707 is sqRt(2) of 1000\n\n563 is golden ratio of 707 subtracted from 1000\n398 is sqRt(2) of 563\n\n1071 is 1000 plus 1/10th of 707\n354 is sqRt(2) of 500",
           "ascender":1071,
           "descender":-354,
           "xHeight":563,
           "capsHeight":1000,
           "measurement":300,
-          "weight":400,
+          "weight":500,
           "width":5,
           "lineGap":9,
+          "safeTop":1080,
+          "safeBottom":363,
           "underlineThickness":50,
           "underlinePosition":-75,
           "otherData":{
+            "HintingMaxH":250,
+            "HintingMaxV":250,
+            "HintingMinH":20,
+            "HintingMinV":20,
+            "TtHinter":1,
             "TtHorizSmoothing":0,
             "TtNoSmoothing":0,
+            "TtaFamilyAlign":0,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
             "hhea_ascender":750,
             "hhea_descender":-250,
             "hhea_line_gap":9,
+            "hhea_use_custom":false,
             "strikeout_position":250,
             "strikeout_size":50,
             "subscript_x_offset":0,
@@ -316,34 +319,24 @@
             "superscript_y_size":650
           },
           "hintingParameters":{
+            "blueScale":0
           },
           "kerning":{
           },
           "fontStemsH":[
             {
-              "value":100,
+              "value":67,
               "name":"std.Hstem"
             }
           ],
           "fontStemsV":[
             {
-              "value":50,
+              "value":71,
               "name":"std.Vstem"
             }
-          ],
-          "measurements":{
-            "ItalicAngle":"0",
-            "Tension":"60",
-            "Ascender":"1071",
-            "Descender":"-354",
-            "CapsHeight":"1000",
-            "XHeight":"563",
-            "UT":"50",
-            "UP":"-75"
-          }
+          ]
         }
       }
-    ],
-    "searchStorage":""
+    ]
   }
 }
